@@ -21,7 +21,7 @@
   -->
 
 <resources>
-    <string name="app_name">nRF Mesh</string>
+    <string name="app_name">EHA Mesh</string>
     <string name="feature_name">Mesh</string>
     <string name="title_scanner">Scanner</string>
     <string name="sub_title_scanning_nodes">Looking for unprovisioned proxy nodes…</string>
@@ -32,9 +32,8 @@
     <string name="button_unknown">UNKNOWN</string>
 
     <string name="location_permission_title">LOCATION PERMISSION REQUIRED</string>
-    <string name="location_permission_info">From Android 6.0 Marshmallow onwards the application requires Location permission in order to scan for Bluetooth Low Energy devices.
-      \n\nThis is because Bluetooth LE beacons, for example iBeacons or Eddystone, may be used to determine the phone\'s and user\'s location.
-        <b>nRF Mesh Provisioner</b> will not use this information in any way.</string>
+    <string name="location_permission_info"> may be used to determine the phone\'s and user\'s location.
+        <b>EHA Mesh Provisioner</b> will not use this information in any way.</string>
     <string name="location_permission_action">Grant permission</string>
     <string name="location_permission_settings">Settings</string>
 
@@ -43,8 +42,7 @@
     <string name="bluetooth_disabled_action">Enable</string>
 
     <string name="unprovisioned_node_guide_title">CAN\'T SEE YOUR NODE?</string>
-    <string name="unprovisioned_node_guide_info">1. Make sure the DK is <b>turned on</b> and is connected to a power source using a micro USB cable or a coin cell is plugged in.
-        \n\n2. Make sure the <b>relevant</b> firmware and SoftDevice are flashed.</string>
+    <string name="unprovisioned_node_guide_info">1. Make sure the EHA device is <b>turned on</b> and is connected to a power source  cable or a coin cell is plugged in.</string>
     <string name="unprovisioned_node_guide_location_info">3. Location is turned off. Some Android phones require it enabled in order to scan for Bluetooth LE devices.
 		If you are sure your Node is advertising and it doesn\'t show up here, click the button below to enable Location.</string>
     <string name="unprovisioned_node_guide_location_action">Enable</string>
@@ -244,9 +242,9 @@
     <string name="title_error_provisioning_failed">Provisioning Failed</string>
     <string name="provisioning_cancelled">Provisioning canceled!</string>
 
-    <string name="nrf_mesh_node">nRF Mesh Node</string>
+    <string name="nrf_mesh_node">EHA Mesh Node</string>
     <string name="company">Company:</string>
-    <string name="nordic_semiconductor_asa">Nordic Semiconductor ASA</string>
+    <string name="nordic_semiconductor_asa">ES Global.</string>
     <string name="elements">Elements:</string>
     <string name="models">Models:</string>
 

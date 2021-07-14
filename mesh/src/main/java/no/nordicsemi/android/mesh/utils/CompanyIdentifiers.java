@@ -125,7 +125,7 @@ public class CompanyIdentifiers {
         vendorModels.append(0x0056, "Sony Ericsson Mobile Communications");
         vendorModels.append(0x0057, "Harman International Industries, Inc.");
         vendorModels.append(0x0058, "Vizio, Inc.");
-        vendorModels.append(0x0059, "Nordic Semiconductor ASA");
+        vendorModels.append(0x0059, "ES Global Manufacturing");
         vendorModels.append(0x005A, "EM Microelectronic-Marin SA");
         vendorModels.append(0x005B, "Ralink Technology Corporation");
         vendorModels.append(0x005C, "Belkin International, Inc.");
